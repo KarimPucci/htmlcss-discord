@@ -92,7 +92,7 @@ section{
   margin-bottom: 50px;
 }
 
-
+/* inizio prima section */
 .img-sec1{
   width: 90%;
   margin-left: 50%;
@@ -106,8 +106,13 @@ section{
 .p-sec1{
   line-height: 1;
 }
+/* fine prima section */
 
 /* seconda section */
+.grigia {
+  background-color: #F6F6F6;
+}
+
 .img-sec2{
   width: 130%;
   margin-right: 50%;
@@ -126,8 +131,20 @@ section{
   line-height: 1;
   text-align: center;
 }
+/* fine seconda section */
 
-section .bg-grey{
+/* inizio terza section */
+.img-sec3{
+  width: 90%;
+  margin-left: 50%;
+}
+
+.tit-sec3{
+  padding-bottom: 20px;
+}
+
+
+section.bg-grey{
   background-color: #F6F6F6;
 }
 
@@ -154,6 +171,7 @@ section.section-bottom .container{
   justify-content: space-around;
   align-items: center;
 }
+
 
 /*FOOTER*/
 footer{
